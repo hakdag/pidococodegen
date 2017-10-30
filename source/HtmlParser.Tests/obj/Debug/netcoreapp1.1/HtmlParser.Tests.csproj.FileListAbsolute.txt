@@ -1,0 +1,12 @@
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\bin\Debug\netcoreapp1.1\HtmlParser.Tests.deps.json
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\bin\Debug\netcoreapp1.1\HtmlParser.Tests.runtimeconfig.json
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\bin\Debug\netcoreapp1.1\HtmlParser.Tests.runtimeconfig.dev.json
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\bin\Debug\netcoreapp1.1\HtmlParser.Tests.dll
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\obj\Debug\netcoreapp1.1\HtmlParser.Tests.csprojResolveAssemblyReference.cache
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\obj\Debug\netcoreapp1.1\HtmlParser.Tests.AssemblyInfo.cs
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\bin\Debug\netcoreapp1.1\HtmlParser.Tests.pdb
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\obj\Debug\netcoreapp1.1\HtmlParser.Tests.dll
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\HtmlParser.Tests\obj\Debug\netcoreapp1.1\HtmlParser.Tests.pdb

@@ -11,16 +11,6 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
                <div title="Name"><input id="__containerId__-page693758858-layer-textinput814252671input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" type="text" /></div>\
             </div>\
          </div>\
-         <div id="__containerId__-page693758858-layer-436254071" style="position: absolute; left: 60px; top: 60px; width: 43px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="436254071" data-review-reference-id="436254071">\
-            <div class="stencil-wrapper" style="width: 43px; height: 17px">\
-               <div title=""><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Name</p></span></span></div>\
-            </div>\
-         </div>\
-         <div id="__containerId__-page693758858-layer-1591285593" style="position: absolute; left: 150px; top: 55px; width: 150px; height: 30px" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="1591285593" data-review-reference-id="1591285593">\
-            <div class="stencil-wrapper" style="width: 150px; height: 30px">\
-               <div title="Name"><input id="__containerId__-page693758858-layer-1591285593input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" type="text" /></div>\
-            </div>\
-         </div>\
          <div id="__containerId__-page693758858-layer-1800165641" style="position: absolute; left: 60px; top: 115px; width: 63px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="1800165641" data-review-reference-id="1800165641">\
             <div class="stencil-wrapper" style="width: 63px; height: 17px">\
                <div title=""><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Surname</p></span></span></div>\
@@ -29,16 +19,6 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
          <div id="__containerId__-page693758858-layer-670481573" style="position: absolute; left: 150px; top: 110px; width: 150px; height: 30px" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="670481573" data-review-reference-id="670481573">\
             <div class="stencil-wrapper" style="width: 150px; height: 30px">\
                <div title="Surname"><input id="__containerId__-page693758858-layer-670481573input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" type="text" /></div>\
-            </div>\
-         </div>\
-         <div id="__containerId__-page693758858-layer-751753108" style="position: absolute; left: 60px; top: 115px; width: 63px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="751753108" data-review-reference-id="751753108">\
-            <div class="stencil-wrapper" style="width: 63px; height: 17px">\
-               <div title=""><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Surname</p></span></span></div>\
-            </div>\
-         </div>\
-         <div id="__containerId__-page693758858-layer-1756155436" style="position: absolute; left: 150px; top: 110px; width: 150px; height: 30px" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="1756155436" data-review-reference-id="1756155436">\
-            <div class="stencil-wrapper" style="width: 150px; height: 30px">\
-               <div title="Surname"><input id="__containerId__-page693758858-layer-1756155436input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" type="text" /></div>\
             </div>\
          </div>\
          <div id="__containerId__-page693758858-layer-1681911511" style="position: absolute; left: 60px; top: 175px; width: 71px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="1681911511" data-review-reference-id="1681911511">\
