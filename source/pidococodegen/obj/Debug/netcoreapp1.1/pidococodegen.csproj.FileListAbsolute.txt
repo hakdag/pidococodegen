@@ -1,0 +1,8 @@
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\pidococodegen\bin\Debug\netcoreapp1.1\pidococodegen.deps.json
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\pidococodegen\bin\Debug\netcoreapp1.1\pidococodegen.runtimeconfig.json
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\pidococodegen\bin\Debug\netcoreapp1.1\pidococodegen.runtimeconfig.dev.json
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\pidococodegen\bin\Debug\netcoreapp1.1\pidococodegen.dll
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\pidococodegen\bin\Debug\netcoreapp1.1\pidococodegen.pdb
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\pidococodegen\obj\Debug\netcoreapp1.1\pidococodegen.AssemblyInfo.cs
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\pidococodegen\obj\Debug\netcoreapp1.1\pidococodegen.dll
+C:\Users\hakdag\Desktop\Personal\GitHub\pidococodegen\source\pidococodegen\obj\Debug\netcoreapp1.1\pidococodegen.pdb
